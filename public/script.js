@@ -40,7 +40,7 @@ menuIcon.addEventListener('click',()=>{
     
 });
 navbar.addEventListener('click',()=>{
-   navbar.style.right="-50%";
+   navbar.style.right="-65%";
   
 
 });
