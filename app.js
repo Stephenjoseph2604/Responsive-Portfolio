@@ -14,7 +14,7 @@ require('dotenv').config();
 const app=express();
 
 //to retrive the correct form of the data 
-app.use(express.urlencoded({extended:false}))
+app.use(express.urlencoded({extended:false}));
 // app.use(bodyparser.json()); 
 
 
