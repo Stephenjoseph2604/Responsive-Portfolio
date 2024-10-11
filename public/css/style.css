@@ -352,6 +352,9 @@ span{
   margin-top: 100px;
   /* text-shadow: 0 0 2px var(--bg-color); */
 }
+.overlay p{
+    font-size: 14px;
+}
 .project:hover .overlay{
     top:0 ;
 }
